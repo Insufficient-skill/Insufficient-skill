@@ -25,10 +25,7 @@
 
 <br />
 
-### GitHub Pages with my last works
-[Check it here!](https://github.com/Insufficient-skill/Insufficient-skill.github.io)
-
-<br />
+### [GitHub Pages with my last works](https://github.com/Insufficient-skill/Insufficient-skill.github.io)
 
 ### Connect with me:
 
