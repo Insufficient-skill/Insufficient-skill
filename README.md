@@ -3,7 +3,6 @@
 ### I'm a frontend-developer!
 
 - 🔭 I’m currently working with VueJS (SSR, NuxtJS)
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to complex projects
 - ⚡ I like to learn new technologies and tools
 
